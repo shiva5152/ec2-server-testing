@@ -1,6 +1,6 @@
 // Import the Express.js framework
 const express = require("express");
-import dotenv from "dotenv";
+const dotenv = require("dotenv");
 dotenv.config();
 
 // Create an instance of the Express application
